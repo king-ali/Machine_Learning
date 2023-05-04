@@ -1,5 +1,5 @@
 # Machine_Learning_Assignment
-This Repository contain Machine Learning Assignments
+This Repository contain Machine Learning tasks.
 
 ### A1: 
 Linear Regression for Solar Radiation Prediction
